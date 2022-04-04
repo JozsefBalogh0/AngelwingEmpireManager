@@ -1,5 +1,6 @@
 # AngelwingEmpireManager
 Management Discord bot for the Angelwing Empire Server
+
 This bot uses Discord API 12
 
 Bot is mainly built for one server, but it can be reconfigured.
