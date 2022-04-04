@@ -5,7 +5,7 @@ This bot uses Discord API 12
 
 Bot is mainly built for one server, but it can be reconfigured.
 
-Indstall node modules with: npm i
+Install node modules with: npm i
 
 Configuration:
 1. Add your own Discord bot token and database configuration to .env
