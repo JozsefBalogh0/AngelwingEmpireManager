@@ -1,0 +1,116 @@
+[{
+  "DEV_MODE": [{
+    "enabled": "false",
+    "guild"  : "",
+    "env"    : "/dev.env",
+    "selfID" : "923134636954107944",
+
+    "Channels": {
+      "sbUpdates"          : "",
+      "rulesChannel"       : "",
+      "appChannel"         : "",
+      "joinAndLeaveChannel": "",
+      "botCommandsChannel" : "",
+      "aboutChannel"       : "",
+      "leadershipChannel"  : "",
+      "goldLeaderboard"    : "",
+      "combatLeaderboard"  : ""
+    },
+
+    "Messages": {
+      "rulesMessage": ""
+    },
+
+    "Roles": {
+      "TheITFox"        : "",
+      "Leadership"      : "",
+      "Bot"             : "",
+      "AccessV"         : "",
+      "Admiral"         : "",
+      "AccessIV"        : "",
+      "FleetCommander"  : "",
+      "ShipCaptain"     : "",
+      "AccessIII"       : "",
+      "HeadOfDepartment": "",
+      "AccessII"        : "",
+      "Member"          : "",
+      "DiplomatKey"     : "",
+      "Diplomat"        : "",
+      "AccessI"         : "",
+      "Trainee"         : "",
+      "Ally"            : "",
+      "Guest"           : "",
+      "Muted"           : "",
+      "VoiceBanned"     : "",
+      "Soldier"         : "",
+      "Everybody"       : ""
+    },
+
+    "Feathers": {
+      "White" : "",
+      "Gold"  : "",
+      "Blue"  : "",
+      "Combat": ""
+    }
+  }],
+
+
+
+
+
+  "DATA": [{
+    "prefix" : "!",
+    "version": "v.1.20",
+    "guild"  : "",
+    "env"    : "/.env",
+    "selfID" : "870398402423324692",
+
+    "Channels": {
+      "sbUpdates"          : "",
+      "rulesChannel"       : "",
+      "appChannel"         : "",
+      "joinAndLeaveChannel": "",
+      "botCommandsChannel" : "",
+      "aboutChannel"       : "",
+      "leadershipChannel"  : "",
+      "goldLeaderboard"    : "",
+      "combatLeaderboard"  : ""
+    },
+
+    "Messages": {
+      "rulesMessage": ""
+    },
+
+    "Roles": {
+      "TheITFox"        : "",
+      "Leadership"      : "",
+      "Bot"             : "",
+      "AccessV"         : "",
+      "Admiral"         : "",
+      "AccessIV"        : "",
+      "FleetCommander"  : "",
+      "ShipCaptain"     : "",
+      "AccessIII"       : "",
+      "HeadOfDepartment": "",
+      "AccessII"        : "",
+      "Member"          : "",
+      "DiplomatKey"     : "",
+      "Diplomat"        : "",
+      "AccessI"         : "",
+      "Trainee"         : "",
+      "Ally"            : "",
+      "Guest"           : "",
+      "Muted"           : "",
+      "VoiceBanned"     : "",
+      "Soldier"         : "",
+      "Everybody"       : ""
+    },
+
+    "Feathers": {
+      "White" : "",
+      "Gold"  : "",
+      "Blue"  : "",
+      "Combat": ""
+    }
+  }]
+}]

@@ -1,0 +1,108 @@
+[{
+	"Guest / Recruit": [
+		{
+		"name": "Access Rank I",
+		"id": ""
+		},
+		{
+		"name": "Guest / Recruit",
+		"id": ""
+		}
+	],
+	"Trainee": [
+		{
+		"name": "Access Rank I",
+		"id": ""
+		},
+		{
+		"name": "Trainee",
+		"id": ""
+		}
+	],
+	"Member I": [
+		{
+		"name": "Access Rank II",
+		"id": ""
+		},
+		{
+		"name": "Member",
+		"id": ""
+		}
+	],
+	"Diplomat": [
+		{
+		"name": "Diplomat Keycard",
+		"id": ""
+		},
+		{
+		"name": "Diplomat",
+		"id": ""
+		}
+	],
+	"Member II": [
+		{
+		"name": "Access Rank III",
+		"id": ""
+		},
+		{
+		"name": "Member",
+		"id": ""
+		}
+	],
+	"Head of Department": [
+		{
+		"name": "Access Rank III",
+		"id": ""
+		},
+		{
+		"name": "Head of Department",
+		"id": ""
+		}
+	],
+	"Member III": [
+		{
+		"name": "Access Rank IV",
+		"id": ""
+		},
+		{
+		"name": "Member",
+		"id": ""
+		}
+	],
+	"Fleet Commander": [
+		{
+		"name": "Access Rank IV",
+		"id": ""
+		},
+		{
+		"name": "Fleet Commander",
+		"id": ""
+		}
+	],
+	"Ship Captain": [
+		{
+		"name": "Access Rank IV",
+		"id": ""
+		},
+		{
+		"name": "Ship Captain",
+		"id": ""
+		}
+	],
+	"Admiral": [
+		{
+		"name": "Access Rank V",
+		"id": ""
+		},
+		{
+		"name": "Admiral",
+		"id": ""
+		}
+	],
+	"Leadership": [
+		{
+		"name": "Leadership",
+		"id": ""
+		}
+	]
+}]
